@@ -1,0 +1,47 @@
+[
+    {
+      "id": "INV001",
+      "storeName": "Tech Store",
+      "orderId": "ORD123",
+      "date": "2025-03-08",
+      "items": [
+        {
+          "productName": "Laptop",
+          "quantity": 2,
+          "regularPrice": 50000,
+          "dealPrice": 45000,
+          "tax": 18
+        },
+        {
+          "productName": "Mouse",
+          "quantity": 1,
+          "regularPrice": 2000,
+          "dealPrice": 1800,
+          "tax": 12
+        }
+      ]
+    },
+    {
+      "id": "INV002",
+      "storeName": "Gadget Hub",
+      "orderId": "ORD456",
+      "date": "2025-03-07",
+      "items": [
+        {
+          "productName": "Smartphone",
+          "quantity": 1,
+          "regularPrice": 30000,
+          "dealPrice": 28000,
+          "tax": 18
+        },
+        {
+          "productName": "Headphones",
+          "quantity": 1,
+          "regularPrice": 5000,
+          "dealPrice": 4500,
+          "tax": 12
+        }
+      ]
+    }
+  ]
+  

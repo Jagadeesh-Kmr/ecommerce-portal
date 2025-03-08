@@ -1,0 +1,12 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "orderId": "ORD123",
+      "storeName": "Tech Store",
+      "date": "2025-03-08",
+      "quantity": 2,
+      "itemTotal": 99.99
+    }
+  ]
+}

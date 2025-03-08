@@ -1,0 +1,31 @@
+[
+    {
+      "id": "PROD001",
+      "storeName": "Tech Store",
+      "productName": "Laptop",
+      "description": "Powerful laptop with 16GB RAM and SSD storage",
+      "price": 50000
+    },
+    {
+      "id": "PROD002",
+      "storeName": "Tech Store",
+      "productName": "Mouse",
+      "description": "Wireless gaming mouse with RGB lighting",
+      "price": 2000
+    },
+    {
+      "id": "PROD003",
+      "storeName": "Gadget Hub",
+      "productName": "Smartphone",
+      "description": "Latest smartphone with OLED display and fast charging",
+      "price": 30000
+    },
+    {
+      "id": "PROD004",
+      "storeName": "Gadget Hub",
+      "productName": "Headphones",
+      "description": "Noise-canceling wireless headphones",
+      "price": 5000
+    }
+  ]
+  

@@ -1,0 +1,27 @@
+.invoice-list-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .invoice-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .invoice-item {
+    background: #f9f9f9;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .view-details {
+    display: inline-block;
+    margin-top: 5px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
